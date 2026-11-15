@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Preview Pixel Match"
+  short_description: "Создание и сверка Compose UI по Figma или PNG"
+  default_prompt: "Используй $compose-preview-pixel-match для реализации или доводки Compose по макету. Зафиксируй замеры и проверь геометрию и цвет по Preview."
